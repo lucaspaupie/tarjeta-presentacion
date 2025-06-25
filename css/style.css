@@ -19,7 +19,7 @@ body {
     background-image: url(../img/mv1.jpg);
     background-size: cover;
     background-position: center;
-    filter: blur(8px);
+    filter: blur(10px);
     z-index: -1;
 }
 
