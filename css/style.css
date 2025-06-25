@@ -32,8 +32,9 @@ body {
     background-color: aqua;
     margin: 0 800px 10px 800px;
     width:300px;
+    padding: 5px;
     text-align: center;
-    font-size: small;
+    font-size: medium;
     border-radius: 15px;
     background:linear-gradient(to right,rgba(0,0,0,0.3),rgba(0,0,0,0.1))
     
