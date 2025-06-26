@@ -17,4 +17,4 @@ La tarjeta contiene:
 - CSS
 
 
-🔗 [https://lucaspaupie.github.io/tarjeta-personal](https://lucaspaupie.github.io/tarjeta-personal)  
+🔗 (https://lucaspaupie.github.io/tarjeta-presentacion/)
